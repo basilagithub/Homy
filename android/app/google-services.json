@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824245279762",
+    "project_id": "home-order-6d0ea",
+    "storage_bucket": "home-order-6d0ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824245279762:android:71cff3d958f6f7620a4ccb",
+        "android_client_info": {
+          "package_name": "com.aladdin.homy_order_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUa-mU3178Udar_hVdjX7keltxxm47tT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
